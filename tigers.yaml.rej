@@ -1,7 +1,0 @@
-diff a/tigers.yaml b/tigers.yaml	(rejected hunks)
-@@ -11,3 +11,5 @@
- - George
- - Tyler
- - Kim
-+
-+fetch: this
